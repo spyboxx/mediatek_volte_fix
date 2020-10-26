@@ -23,11 +23,11 @@ Then simply flash using any custom recovery such as TWRP/SHRP/PBRP
 If your Recovery cannot decrypt data, then you need to have root access. Set props manually using
 
 ```
-setprop persist.dbg.allow_ims_off=1
-setprop persist.dbg.volte_avail_ovr=1
-setprop persist.dbg.vt_avail_ovr=1
-setprop persist.dbg.wfc_avail_ovr=1
-setprop persist.sys.phh.ims.caf=true
+setprop persist.dbg.allow_ims_off 1
+setprop persist.dbg.volte_avail_ovr 1
+setprop persist.dbg.vt_avail_ovr 1
+setprop persist.dbg.wfc_avail_ovr 1
+setprop persist.sys.phh.ims.caf true
 ```
 
 **AFTER** booting into system
