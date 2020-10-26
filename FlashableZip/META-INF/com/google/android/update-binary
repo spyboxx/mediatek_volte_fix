@@ -60,10 +60,10 @@ package_extract_file "persistprop" "/tmp/"
 chmod 0755 /tmp/persistprop
 
 ui_print "Setting props..."
-/tmp/persistprop persist.dbg.allow_ims_off=1
-/tmp/persistprop persist.dbg.volte_avail_ovr=1
-/tmp/persistprop persist.dbg.vt_avail_ovr=1
-/tmp/persistprop persist.dbg.wfc_avail_ovr=1
-/tmp/persistprop persist.sys.phh.ims.caf=true
+/tmp/persistprop persist.dbg.allow_ims_off 1
+/tmp/persistprop persist.dbg.volte_avail_ovr 1
+/tmp/persistprop persist.dbg.vt_avail_ovr 1
+/tmp/persistprop persist.dbg.wfc_avail_ovr 1
+/tmp/persistprop persist.sys.phh.ims.caf true
 
 ui_print "Done!"
