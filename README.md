@@ -9,6 +9,7 @@ Thanks to:
 
 - @phhusson for ims APK build & his GSI's + His Support
 - @KhushRajRathod for His Qcom Volte fix Scripts , That helped me alot to make this mtk volte fix
+- @AgentFabulous for helping me understand IP Multimedia Subsystem (IMS) well. 
 - Ofcourse Me @techyminati xD
 
 # Ways to install
