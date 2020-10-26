@@ -1,4 +1,4 @@
-# Copyright 2020 Khushraj Rathod
+# Copyright 2020 Aryan Sinha @techyminati
 #
 # This file is part of VoLTE-Fix.
 #
